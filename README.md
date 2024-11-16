@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @rosso101
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rosso101/rosso101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-👋 Hi, I’m Victor 
+- 👀 I’m interested in software development, web technologies, and building innovative digital solutions.
+- 🌱 I’m currently learning React.js and Bootstrap. 
+- 💞️ I’m looking to collaborate on web development projects, especially those involving React or Bootstrap.
+- 📫 How to reach me: 📱+254 716-914-336, 📩victorprivv101@gmail.com 
